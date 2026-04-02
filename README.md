@@ -43,6 +43,9 @@ Vendedor Destaque: Identificamos que a vendedora Ana superou a meta mensal, send
 5. Comportamento do Cliente
 Recorrência e Fidelidade: Sim, identificamos clientes recorrentes. O "Top 10 Clientes" possui mais de 119 compras por usuário, indicando uma base fiel que pode ser explorada com programas de recompensas.
 
+## 📈 Visualização de Dados
+![Dashboard](./Docs/Dashboard.png)
+
 ### Contato:
 * Emerson Nóbrega de Oliveira
 * [Linkedin](https://www.linkedin.com/in/emersonnobrega/)
